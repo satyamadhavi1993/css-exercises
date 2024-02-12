@@ -1,0 +1,18 @@
+.odd_numbers {
+    background-color: rgb(224, 158, 168);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.big_font {
+    font-size: 24px;
+}
+
+#even_number1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#even_number2 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
